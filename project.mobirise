@@ -683,7 +683,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Vape Kits",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -692,11 +692,11 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "<a href=\"page4.html\" class=\"text-white\">Jomo Lite 40</a>",
+                "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Vape Kits",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -705,8 +705,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "<a href=\"page4.html\" class=\"text-white\">Smok Vape Pen 22</a>",
+                "active": false
               },
               {
                 "tags": "iWatch",
@@ -735,7 +735,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Vape Flavours",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -745,7 +745,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           }
